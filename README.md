@@ -9,6 +9,6 @@ Skills & Interests
 AI/ML: Building and training models, exploring new algorithms, and implementing real-world solutions.
 Open Source: Contributing to projects that make a difference and learning from experienced developers.
 Programming: Skilled in Java, Rust, C, Python, and familiar with frameworks like TensorFlow and PyTorch.
-Projects: Working on exciting projects like a U-Net model for image segmentation, and creating an app called 'Lancer' for freelancers.
+Projects: Working on exciting projects like a U-Net model for image segmentation.
 Feel free to connect with me if you're interested in collaborating on open-source or AI/ML projects! 🚀
 
