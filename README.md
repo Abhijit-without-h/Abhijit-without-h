@@ -13,4 +13,4 @@ Projects: Working on exciting projects like a U-Net model for image segmentation
 Feel free to connect with me if you're interested in collaborating on open-source or AI/ML projects! 🚀
 
 
-[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/abhijit_without_h/README.md)
+[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijit_without_h)](https://github.com/abhijit_without_h/README.md)
