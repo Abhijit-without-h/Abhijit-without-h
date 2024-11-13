@@ -12,4 +12,5 @@ Programming: Skilled in Java, Rust, C, Python, and familiar with frameworks like
 Projects: Working on exciting projects like a U-Net model for image segmentation.
 Feel free to connect with me if you're interested in collaborating on open-source or AI/ML projects! 🚀
 
-[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijit_without_h)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
