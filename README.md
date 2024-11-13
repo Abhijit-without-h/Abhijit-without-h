@@ -11,6 +11,4 @@ Open Source: Contributing to projects that make a difference and learning from e
 Programming: Skilled in Java, Rust, C, Python, and familiar with frameworks like TensorFlow and PyTorch.
 Projects: Working on exciting projects like a U-Net model for image segmentation.
 Feel free to connect with me if you're interested in collaborating on open-source or AI/ML projects! 🚀
-
-
-[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijit_without_h)](https://github.com/abhijit_without_h/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijit-without-h)](https://github.com/anuraghazra/github-readme-stats)
