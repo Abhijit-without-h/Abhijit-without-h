@@ -25,6 +25,5 @@ Hi! I'm Abhijit, a passionate Computer Science student currently pursuing my deg
 
 ###
 
-<img src="https://raw.githubusercontent.com/abhijit-without-h/abhijit-without-h/output/snake.svg" alt="Snake animation" />
 
 ###
