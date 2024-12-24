@@ -19,3 +19,12 @@ Hi! I'm Abhijit, a passionate Computer Science student currently pursuing my deg
 [![](https://visitcount.itsvg.in/api?id=abhijit-without-h&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/abhijit-without-h/abhijit-without-h/output/snake.svg" alt="Snake animation" />
+
+###
